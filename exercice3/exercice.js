@@ -1,5 +1,5 @@
 $("p").hide();
 
 $("button").click(function(){
-    $("p").method();
+    $("p").fadeIn(2000);
 });
